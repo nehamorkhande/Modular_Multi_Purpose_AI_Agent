@@ -1,0 +1,996 @@
+text,intent
+Show me the last 5 emails,gmail_operations
+Get 10 recent messages from my reception box,gmail_operations
+Give me my last 3 letters,gmail_operations
+Recover the latest emails,gmail_operations
+Show recent letters,gmail_operations
+Show e-mails from hr@xyz.com,gmail_operations
+Reply to emails sent by Flipkart,gmail_operations
+Get messages from John Doe,gmail_operations
+Show me emails from my manager,gmail_operations
+Find letters at noreply@cdac.in,gmail_operations
+Show unrelated emails,gmail_operations
+Get all unread messages,gmail_operations
+Show the emails I haven't seen,gmail_operations
+Respond only to those not read,gmail_operations
+What letters are not read?,gmail_operations
+Show important emails,gmail_operations
+Respond to stars,gmail_operations
+Give me high priority messages,gmail_operations
+Get my reported emails,gmail_operations
+Important messages only,gmail_operations
+Receive emails from the last 7 days,gmail_operations
+Show emails between Monday and today,gmail_operations
+Respond to messages from last week,gmail_operations
+Show the January emails,gmail_operations
+Give me emails yesterday,gmail_operations
+"Receive e-mails labeled ""work""",gmail_operations
+"Show messages under ""staff""",gmail_operations
+Respond to letters in the update category,gmail_operations
+Give me social label messages,gmail_operations
+Find emails in the promotions tab,gmail_operations
+"Show emails with a ""invoice"" containing subject",gmail_operations
+Get emails with the “Offer” object line,gmail_operations
+"Find messages where the subject includes ""payment""",gmail_operations
+"Search for emails with the subject ""meeting""",gmail_operations
+Filter the e-mails by keyword of 'Amazon',gmail_operations
+Download the attachments from the last 2 letters,gmail_operations
+Get files from my recent emails,gmail_operations
+Find attached documents in messages,gmail_operations
+Show emails with attachments,gmail_operations
+List all recent attachments,gmail_operations
+Summarize the last 3 emails from Flipkart,gmail_operations
+Give a summary of today's emails,gmail_operations
+Summarize my reception box,gmail_operations
+What are the main ones?,gmail_operations
+Brown me on the emails last week,gmail_operations
+List the latest emails I received,gmail_operations
+Can you show me my 8 most recent letters?,gmail_operations
+I want to see the last 4 emails,gmail_operations
+Last messages please,gmail_operations
+Recover my last emails,gmail_operations
+Show all Amazon messages,gmail_operations
+My teacher's emails,gmail_operations
+Can you receive messages by support@zomato.com?,gmail_operations
+List all letters sent by my boss,gmail_operations
+Pull Airtel's messages,gmail_operations
+List new unrelated letters,gmail_operations
+What messages have I not opened?,gmail_operations
+An unread mail in my reception box?,gmail_operations
+Non-read emails this week,gmail_operations
+Are there not read?,gmail_operations
+Show me only important emails,gmail_operations
+Do I have messages played?,gmail_operations
+List my important emails marked,gmail_operations
+Respond to priority letters,gmail_operations
+What are my reported emails?,gmail_operations
+Mail received in the last 3 days,gmail_operations
+Show emails between July 1 and 5,gmail_operations
+Messages from the reception box for the last 24 hours,gmail_operations
+Can I see June emails?,gmail_operations
+"Filter by ""Finance"" label",gmail_operations
+Show only emails marked at work,gmail_operations
+"What do I have in the ""Updates"" tab?",gmail_operations
+"E-mails marked as ""personal""",gmail_operations
+"Get only ""travel"" category emails",gmail_operations
+"E-mails on ""registration""?",gmail_operations
+"Look for the object line for ""reception""",gmail_operations
+"Emails where the subject has a ""notification""",gmail_operations
+"Show me messages with ""results"" in the subject",gmail_operations
+"Subject filter by keyword ""fresh""",gmail_operations
+Download all attachments from today's letters,gmail_operations
+List of attachments in recent emails,gmail_operations
+Files received today?,gmail_operations
+Show me emails that include attachments,gmail_operations
+Get PDF files sent recently,gmail_operations
+Give me a brief summary of today's emails,gmail_operations
+Summarize all unrelated messages,gmail_operations
+Quick summary of boss emails,gmail_operations
+What is in my last 5 letters?,gmail_operations
+Summate everything that has received this week,gmail_operations
+Pull my last three emails,gmail_operations
+Can I see the 10 most recent letters?,gmail_operations
+List the last batch of emails,gmail_operations
+What are my last messages?,gmail_operations
+I want to check the previous emails I received,gmail_operations
+Recover Linkedin emails,gmail_operations
+Find all the messages from the bank,gmail_operations
+Show e-mails sent by client.support@abc.com,gmail_operations
+Do I have the mail of Ravi?,gmail_operations
+Get all the Flipkart correspondence,gmail_operations
+What emails I haven't read yet?,gmail_operations
+New letters in my reception box?,gmail_operations
+"E-mail not read only, please",gmail_operations
+I want to see new unrelated messages,gmail_operations
+Are there not open emails?,gmail_operations
+Show high priority emails,gmail_operations
+Show only conversations played,gmail_operations
+Get marked and important emails,gmail_operations
+What are my messages reported or starred?,gmail_operations
+Important emails only,gmail_operations
+Emails from last Monday to today,gmail_operations
+Respond to letters I have this month,gmail_operations
+Get messages between May 1 to May 10,gmail_operations
+Pull yesterday emails,gmail_operations
+What emails arrived this weekend?,gmail_operations
+"Give me all ""official"" tagged emails",gmail_operations
+"Find emails under the ""social"" label",gmail_operations
+"Get messages classified as ""promotions""",gmail_operations
+Recover only those labeled as `` job alerts '',gmail_operations
+"Show me all emails with the ""Bills"" label",gmail_operations
+"Look for letters where the subject contains an ""offer""",gmail_operations
+"Search for subjects for the word ""project""",gmail_operations
+"E-mails on ""Travel itinerary""",gmail_operations
+"Find all the messages with an object line, including ""canceled""",gmail_operations
+"The object line contains the word ""invoice""",gmail_operations
+Messages with downloadable files?,gmail_operations
+Restorate all emails with attached documents,gmail_operations
+Find all the images or PDF sent recently,gmail_operations
+Can I only display emails that have attachments?,gmail_operations
+Can you give me a summary of unrelated messages?,gmail_operations
+Summarize all of yesterday's emails,gmail_operations
+What are the essentials of my last letters?,gmail_operations
+I just need a memory of the reception box today,gmail_operations
+Give me quick points of recent emails,gmail_operations
+Show my two most recent emails,gmail_operations
+Give me the last five messages,gmail_operations
+Pull the previous few letters,gmail_operations
+I would like to see the latest emails I received,gmail_operations
+Access my last 3 letters,gmail_operations
+Get emails sent by Amazon,gmail_operations
+Messages from my teacher?,gmail_operations
+Recover conversations at info@cdac.in,gmail_operations
+Do I have Microsoft mail?,gmail_operations
+Show me all the e-mails that Ramesh has sent,gmail_operations
+Bring the emails that I haven't read yet,gmail_operations
+Show all fresh emails,gmail_operations
+Open new messages that I did not check,gmail_operations
+Let's see the unrelated reception box,gmail_operations
+Only new unread emails please,gmail_operations
+Get only my marked or starry emails,gmail_operations
+What are the important letters this week?,gmail_operations
+Load only the emails I reported,gmail_operations
+Played conversations only,gmail_operations
+Display my priority messages,gmail_operations
+Pull emails from the last 3 days,gmail_operations
+Get my this week's reception box,gmail_operations
+Check all the emails I received in June,gmail_operations
+What messages have come in the past 24 hours?,gmail_operations
+Emails between Monday and Thursday,gmail_operations
+"Give me the messages labeled ""travel""",gmail_operations
+"Receive emails from the ""invoices"" category",gmail_operations
+"List everything under ""personal""",gmail_operations
+"Access all ""customers"" tagged emails",gmail_operations
+"E-mails labeled as ""team updates""",gmail_operations
+"Find messages on the ""meeting""",gmail_operations
+"Look for object lines that say ""comments""",gmail_operations
+"The subject contains the word ""application""",gmail_operations
+"Search for subjects such as ""holiday plans""",gmail_operations
+"The subject of mail has ""results""",gmail_operations
+List of emails with curriculum vitae joints,gmail_operations
+Pull all the mail which includes attachments,gmail_operations
+Do I have documents in recent letters?,gmail_operations
+Find all the mails of the attachment of this month,gmail_operations
+I only want emails that have something attached,gmail_operations
+Give me a summary of today's reception box,gmail_operations
+Rapid protruding facts of this week's letters,gmail_operations
+Summarize all work -related messages,gmail_operations
+Just give a memory of non -read messages,gmail_operations
+Can you summarize my reception box in short?,gmail_operations
+Can you recover the last 10 emails I received?,gmail_operations
+Show me a list of my recent messages,gmail_operations
+I would like to review the last batch of emails,gmail_operations
+What were my last 7 messages?,gmail_operations
+Recover my last emails received,gmail_operations
+Check all emails from Flipkart,gmail_operations
+Messages from my boss?,gmail_operations
+Do I have letters from Swati.patil@abc.com?,gmail_operations
+Get my college communications,gmail_operations
+Please list all messages sent by Rahul,gmail_operations
+Can I see no read emails only?,gmail_operations
+What new messages haven't I opened yet?,gmail_operations
+Respond only to invisible emails,gmail_operations
+Show messages that I haven't read,gmail_operations
+List the non -read in my reception box,gmail_operations
+Receive emails that I have marked as important,gmail_operations
+"Important emails only, please",gmail_operations
+Recover only messages played,gmail_operations
+Show me reported or important emails,gmail_operations
+Check the emails I received this weekend,gmail_operations
+E-mails from last Friday to now,gmail_operations
+Give me messages from the last 10 days,gmail_operations
+Pull all emails from April 1 to April 7,gmail_operations
+Show only emails this morning,gmail_operations
+"Open e-mails labeled as ""finance""",gmail_operations
+"Check the letters under ""work""",gmail_operations
+"Get marked with ""important""",gmail_operations
+"List messages under ""Project X""",gmail_operations
+"Answer letters classified as ""reports""",gmail_operations
+"Show emails with the subject mentioning ""invoice""",gmail_operations
+"Find messages where the so -called ""urgent"" subject",gmail_operations
+"Get all emails entitled ""Results""",gmail_operations
+What letters have the “job offer” in the subject?,gmail_operations
+"Locate the subjects containing the ""project update""",gmail_operations
+Download the attachments from today's emails,gmail_operations
+Find emails with pdfs,gmail_operations
+Are there mails that include files?,gmail_operations
+Locate all the emails that have documents,gmail_operations
+Messages with images or attachments?,gmail_operations
+Give me a turn of the latest emails,gmail_operations
+Summate my reception box this morning,gmail_operations
+Can you quickly summarize the messages I received yesterday?,gmail_operations
+Short summary of emails I received from HR,gmail_operations
+Summate only my unrelated emails,gmail_operations
+Show just the latest emails I received,gmail_operations
+I would like to see my 3 most recent emails,gmail_operations
+Can I get my last messages?,gmail_operations
+Recover the last batch of emails received,gmail_operations
+Pull my last emails,gmail_operations
+Do I have admin@xyz.com updates?,gmail_operations
+Search for emails sent by Mahesh,gmail_operations
+Pull the Paytm letters,gmail_operations
+Recover all Amazon messages,gmail_operations
+Find e-mails received from yourbank@services.com,gmail_operations
+Not read messages only,gmail_operations
+What emails haven't opened yet?,gmail_operations
+Check the new letters I missed,gmail_operations
+Scan the reception box for unrelated stuff,gmail_operations
+Non-read emails this morning,gmail_operations
+Get marked letters as a high priority,gmail_operations
+List my starry items,gmail_operations
+Only important or reported messages,gmail_operations
+Those important last week,gmail_operations
+Filter my reception box for critical letters,gmail_operations
+Show emails for the past 2 weeks,gmail_operations
+Iron my messages from the last 24 hours,gmail_operations
+Receive emails that I received during Diwali,gmail_operations
+Emails between January 10 and January 15,gmail_operations
+Remove Monday's messages,gmail_operations
+"Get all the ""Research"" tagged emails",gmail_operations
+"Show letters labeled ""Travel""",gmail_operations
+"Open the emails of the ""Todo"" label",gmail_operations
+"What is in the category of ""updates""?",gmail_operations
+"Answer the letters labeled as ""recruitment""",gmail_operations
+"Search for object lines with ""offer""",gmail_operations
+"Show me emails where the subject called ""Assignment""",gmail_operations
+"E-mails entitled ""Invitation""?",gmail_operations
+"Check the subjects containing ""CV""",gmail_operations
+"Recover subjects that include the ""salary""",gmail_operations
+Do I have letters with downloadable files?,gmail_operations
+Search for emails that have Excel sheets,gmail_operations
+Find attachments of the image last week,gmail_operations
+Locate all letters with files in them,gmail_operations
+Download all recent e-mail attachments,gmail_operations
+Summarize all of today's letters,gmail_operations
+Give a memory of unrelated messages,gmail_operations
+Can you give an overview of the emails last night?,gmail_operations
+What is the summary of my last emails?,gmail_operations
+Quickly summarizes my reception box,gmail_operations
+Show me my last 10 emails,gmail_operations
+Can you display the 7 most recent letters?,gmail_operations
+I want to read the last 15 emails,gmail_operations
+Pull the last set of emails I received,gmail_operations
+Recover the most recent messages,gmail_operations
+Give me info letters HR,gmail_operations
+Rahul updates in my reception box?,gmail_operations
+Do I have Flipkart messages?,gmail_operations
+Answer all letters from support@abc.com,gmail_operations
+Pull the conversations with John Doe,gmail_operations
+What letters are not read?,gmail_operations
+List all the messages that I have not seen yet,gmail_operations
+What emails are not yet open?,gmail_operations
+Are there any invisible emails today?,gmail_operations
+Not read messages this week,gmail_operations
+Show me only reported emails,gmail_operations
+Receive important work emails,gmail_operations
+List high priority items in my reception box,gmail_operations
+Pull all priority letters,gmail_operations
+Emails received from July 1 to 5,gmail_operations
+Messages between weekends and now,gmail_operations
+Can I see the emails last month?,gmail_operations
+Emails that I received in June,gmail_operations
+Removing emails sent during the holidays,gmail_operations
+"Receive the emails of the ""Finance"" label",gmail_operations
+"Show messages under ""College"" label",gmail_operations
+"Open all letters in the ""banking"" label",gmail_operations
+"Recover marked messages with ""family""",gmail_operations
+"E-mails labeled as ""job offers""",gmail_operations
+"Find emails with the subject ""Comments""",gmail_operations
+Check the emails with the subject on attendance,gmail_operations
+"Look for object lines with a ""project""",gmail_operations
+"E-mails with subject starting with ""alert""",gmail_operations
+"Pull the object lines related to ""payment""",gmail_operations
+Show emails with attached documents,gmail_operations
+Find emails that include a PDF file,gmail_operations
+Recover emails containing attachments,gmail_operations
+Letters with file downloads?,gmail_operations
+Download attachments from recent emails,gmail_operations
+Give me a short version of new emails,gmail_operations
+Summarize last week's messages,gmail_operations
+Quick summary of recent emails,gmail_operations
+What is the main on today's emails?,gmail_operations
+Inform unrelated emails,gmail_operations
+Can you list the latest emails I received?,gmail_operations
+I need an overview of my 20 previous messages,gmail_operations
+Load recent letters from my reception box,gmail_operations
+Bring the last 3 emails,gmail_operations
+What were the last emails I received?,gmail_operations
+Check my boss's messages,gmail_operations
+Look for emails sent by team@startup.io,gmail_operations
+Something rajesh in the mailbox?,gmail_operations
+Show the emails I received from the director,gmail_operations
+Find letters by Paytm,gmail_operations
+What messages are not read?,gmail_operations
+Highlight invisible messages,gmail_operations
+List of new emails that I have not opened yet,gmail_operations
+I want to read the mail not only,gmail_operations
+Are there new emails for me?,gmail_operations
+Show all important letters,gmail_operations
+What messages are played?,gmail_operations
+Open my priority emails,gmail_operations
+Get me reported messages from the reception box,gmail_operations
+Reply to all starry items,gmail_operations
+Show emails that I gave last weekend,gmail_operations
+Display all letters from June 10 to 20,gmail_operations
+Emails that I received last Thursday,gmail_operations
+Mails of this week only,gmail_operations
+Receive me from January emails,gmail_operations
+"Resume e-mails labeled ""updates""",gmail_operations
+"Get me ""received"" label emails",gmail_operations
+"Look for the ""Newsletters"" file",gmail_operations
+"Open my e-mails labeled ""to do""",gmail_operations
+What is under the “internship” label?,gmail_operations
+"Find emails with the subject ""repaled repolled""",gmail_operations
+"Locate the messages mentioning ""interview"" in the subject",gmail_operations
+"Emails on the ""delivery status"" online of object",gmail_operations
+"Subjects containing ""OTP""",gmail_operations
+"What messages had an ""assignment"" in the subject?",gmail_operations
+Show emails that include photos,gmail_operations
+Receive emails with joints CVs,gmail_operations
+I need emails containing files,gmail_operations
+Find the mail with the Excel sheet,gmail_operations
+Download all E-mail attachments,gmail_operations
+Give me Summaries of Emails today,gmail_operations
+Summarize all unrelated messages,gmail_operations
+Can you briefly explain recent emails?,gmail_operations
+A quick summary of my last messages,gmail_operations
+I want a summary of reception box conversations,gmail_operations
+Read the last emails I received,gmail_operations
+Show me my 10 most recent letters,gmail_operations
+Bring my last messaging sons,gmail_operations
+List my last emails from the reception box,gmail_operations
+Open Google emails,gmail_operations
+Do I have something flipkart?,gmail_operations
+Check if I received something at infosys.hr@job.com,gmail_operations
+Search emails by customer support,gmail_operations
+A message sent by Shraddha?,gmail_operations
+What messages are still waiting to be read?,gmail_operations
+Show only non-read emails please,gmail_operations
+Do I have an unread letter?,gmail_operations
+Not read messages only,gmail_operations
+List of fresh unrelated messages,gmail_operations
+Show all messages reported,gmail_operations
+Open my VIP or important emails,gmail_operations
+Check if I have marked messages,gmail_operations
+Give me the stars of the reception box,gmail_operations
+Prioritize important messages,gmail_operations
+Search for emails last month,gmail_operations
+Messages that I received between May 10 and May 20?,gmail_operations
+Show yesterday,gmail_operations
+E-mails that came this week,gmail_operations
+Filter the emails of the first week of July,gmail_operations
+"Read the letters of my ""shopping"" label",gmail_operations
+"Open ""college"" label messages",gmail_operations
+"Filter emails marked as ""finance""",gmail_operations
+"Answer all emails classified under ""bank""",gmail_operations
+"Show me only ""personal"" emails",gmail_operations
+List of emails on paying costs in the subject,gmail_operations
+"Look for emails with a subject like ""Project Deadline""",gmail_operations
+"A mail subject containing ""results""?",gmail_operations
+"I want all messages with ""update"" in the title",gmail_operations
+"Locate the subjects with the word ""holidays""",gmail_operations
+Find all letters with PDF joints,gmail_operations
+Receive emails that had photos or media,gmail_operations
+Emails where files were shared,gmail_operations
+Download all files from the last 5 emails,gmail_operations
+Show me messages with zip attachments,gmail_operations
+Give me a short version of the e-mails of the reception box,gmail_operations
+Summate all activities by today's email,gmail_operations
+Can you give me a tour of my recent emails?,gmail_operations
+What is the summary of unrelated emails?,gmail_operations
+Summarize the last 5 messages,gmail_operations
+Get me the last three messages I received,gmail_operations
+What are the most recent emails in my reception box?,gmail_operations
+Reply 15 recent emails,gmail_operations
+Load the last batch of emails,gmail_operations
+Show my manager's messages,gmail_operations
+Do I have something paytm?,gmail_operations
+Look for emails sent by HR,gmail_operations
+Filter The email of Ravi.kumar@company.com,gmail_operations
+Read the letters from the Icici bank,gmail_operations
+What letters are not read right now?,gmail_operations
+List only unrelated emails,gmail_operations
+Mail not read please,gmail_operations
+New messages that I haven't seen yet?,gmail_operations
+Emails still not open?,gmail_operations
+Prioritize marked e-mails as urgent,gmail_operations
+Open my reported messages,gmail_operations
+Important emails only,gmail_operations
+Mail marked as a priority?,gmail_operations
+Show me absolute priority letters,gmail_operations
+Enter the emails last Friday,gmail_operations
+What did I receive on July 10?,gmail_operations
+Emails between the 1st and 5th of this month,gmail_operations
+Filter messages from this weekend,gmail_operations
+Show emails received during the festival week,gmail_operations
+"Show me all the emails tagged ""work""",gmail_operations
+"Receive emails in the ""Travel"" category",gmail_operations
+"Show e-mails labeled as ""received""",gmail_operations
+"Find only the ""Newsletter"" emails",gmail_operations
+"I want to check the letters in the ""academic"" file",gmail_operations
+"Receive letters with ""invoice"" in the subject",gmail_operations
+"Find messages with the title ""Assignment""",gmail_operations
+"The subject must contain ""update""",gmail_operations
+"Look for emails with the subject as ""reprogramming""",gmail_operations
+"Show object lines with the word ""interview""",gmail_operations
+What emails have Excel joint files?,gmail_operations
+Find messages with any type of attachment,gmail_operations
+Show emails that include a CV,gmail_operations
+Documents that have been sent to me recently?,gmail_operations
+Recover letters with images or documents,gmail_operations
+Summate what I got in my reception box this week,gmail_operations
+"In short, summary of all new emails",gmail_operations
+Can you summarize the incoming letters today?,gmail_operations
+Give me the strengths of my reception box,gmail_operations
+Summate only non-read important emails,gmail_operations
+Give me the latest emails I received,gmail_operations
+What were my last letters?,gmail_operations
+Show the five most recent messages,gmail_operations
+Pull my last 7 letters,gmail_operations
+I want to see my last batch of emails,gmail_operations
+Open all Flipkart messages,gmail_operations
+Something CDAC. Pane today?,gmail_operations
+Receive emails that delighted me,gmail_operations
+Do I have something notifications@linkedin.com?,gmail_operations
+Show me messages sent by my colleague Neha,gmail_operations
+Non-read emails this morning?,gmail_operations
+Tell me what messages I haven't opened,gmail_operations
+New unread notifications?,gmail_operations
+Emails that I haven't checked yet,gmail_operations
+I only want to see unrelated stuff,gmail_operations
+What are my star emails?,gmail_operations
+List of letters reported,gmail_operations
+Important emails last week,gmail_operations
+Simply display the important marked messages,gmail_operations
+Access only critical priority emails,gmail_operations
+What letters came between January 1 and 10?,gmail_operations
+Receive emails last Monday,gmail_operations
+All yesterday's emails,gmail_operations
+Pull the emails of this month only,gmail_operations
+Recover emails from April to May,gmail_operations
+"Show me e-mails labeled like ""Finance""",gmail_operations
+Get just letters in the promotions category,gmail_operations
+"E-mails marked under ""invoices"" please",gmail_operations
+"Read all articles in the ""family"" label",gmail_operations
+"Look for messages in the ""Tait"" folder",gmail_operations
+"Search for messages with a subject on the ""meeting""",gmail_operations
+"Check the titles containing the ""project update""",gmail_operations
+"Look for subjects that say ""offer a letter""",gmail_operations
+"The object line must include a ""opinion""",gmail_operations
+"E-mails with subject containing the word ""form""",gmail_operations
+PDF files in my mail today?,gmail_operations
+Get messages with files,gmail_operations
+Recover letters that came with documents or images,gmail_operations
+What messages have something?,gmail_operations
+Can you give me a summary of my recent emails?,gmail_operations
+Summarize my last 10 messages,gmail_operations
+Tell me what my reception box looks like today,gmail_operations
+Give me the key points for today's emails,gmail_operations
+A memory of unrelated and indicated letters please,gmail_operations
+Show the last 7 emails,gmail_operations
+Give me a list of my last 15 messages,gmail_operations
+I want to see the latest emails I received,gmail_operations
+List my 10 most recent letters,gmail_operations
+Can you show me the 8 recent letters?,gmail_operations
+Do I have Amazon emails?,gmail_operations
+Recover all the letters received from my teacher,gmail_operations
+A letter from my bank?,gmail_operations
+Find all the messages sent by support@udemy.com,gmail_operations
+Look for newsletter@medium.com emails,gmail_operations
+Are there unrelated messages?,gmail_operations
+Check the notifications not read in the mail,gmail_operations
+Can you only filter unrelated emails?,gmail_operations
+List all unrelated emails from my reception box,gmail_operations
+What letters haven't I read yet?,gmail_operations
+I need to see my starry messages,gmail_operations
+Show mails at high priority,gmail_operations
+List of emails marked as important,gmail_operations
+Show only starry,gmail_operations
+What emails are reported?,gmail_operations
+Show emails from July 1 to July 15,gmail_operations
+Show emails between last Monday and today,gmail_operations
+What messages have I received in the last 3 days?,gmail_operations
+Receive emails from the second week of June,gmail_operations
+Filter the emails of March,gmail_operations
+Find emails under the updated tab,gmail_operations
+Obtain labeled messages Finance,gmail_operations
+Show my emails labeled by travel,gmail_operations
+What letters are personal labeled?,gmail_operations
+Finding promotional messages,gmail_operations
+"Look for emails with ""exam hours"" in the subject",gmail_operations
+"Find all the emails where the subject contains ""OTP""",gmail_operations
+"Get letters with an object line starting with ""invoice""",gmail_operations
+"A letter with the subject ""approval of the leave""?",gmail_operations
+"Look for messages with ""declared result"" in the title",gmail_operations
+List all letters that have attachments,gmail_operations
+Download PDF from recent emails,gmail_operations
+Find attached documents in the last 5 letters,gmail_operations
+I want to see the attachments I have today,gmail_operations
+Get all e-mail files,gmail_operations
+Summarize yesterday's emails,gmail_operations
+Can you summarize all unrelated messages?,gmail_operations
+Give me an email tour today,gmail_operations
+Show a brief summary of my last emails,gmail_operations
+Tell me what all my HR emails are talking about,gmail_operations
+I want to see my 5 most recent emails,gmail_operations
+Recover my last emails,gmail_operations
+Recover the last 7 letters that I obtained,gmail_operations
+Bring the latest messages,gmail_operations
+Get the most recent reception box letters,gmail_operations
+I want to see the emails sent by Priya,gmail_operations
+Recover my teacher's messages,gmail_operations
+Give me the emails coming from Amazon,gmail_operations
+Get conversations with Ramesh,gmail_operations
+Can you only show those not read?,gmail_operations
+I did not read them - to pass them,gmail_operations
+What are my new emails?,gmail_operations
+Show emails that I haven't opened yet,gmail_operations
+Filter non -read emails,gmail_operations
+Bring only starry emails,gmail_operations
+Get high import messages,gmail_operations
+What emails are marked as important?,gmail_operations
+I want to see my important letters again,gmail_operations
+Check any mail reported or starry,gmail_operations
+Emails I received during the weekend,gmail_operations
+Show messages from June 1 to June 10,gmail_operations
+Reply to all emails this month,gmail_operations
+Get only emails last Monday,gmail_operations
+Filter my reception box by date - this week,gmail_operations
+Give me the emails labeled as finance,gmail_operations
+"I need all emails under the label of ""academics""",gmail_operations
+"Get tagged ""friends""",gmail_operations
+Show only emails from my work file,gmail_operations
+Resume all update category messages,gmail_operations
+"Search for emails mentioning the ""exam calendar"" in the subject",gmail_operations
+"Get letters entitled with ""Reunion Agenda""",gmail_operations
+"Find subjects that include ""the letter of tend""",gmail_operations
+"Filter messages with ""project update"" online",gmail_operations
+"I want to check all the subjects mentioning ""the interview""",gmail_operations
+Download all files from recent emails,gmail_operations
+List all the attachments of the emails I received this week,gmail_operations
+Find messages that include a PDF,gmail_operations
+Receive emails with downloadable content,gmail_operations
+Are there documents that have been sent to me recently?,gmail_operations
+Can you sum up today's emails?,gmail_operations
+Summarize the important messages that I received,gmail_operations
+Provide an e-mails from last week,gmail_operations
+What is the summary of yesterday's emails?,gmail_operations
+Give me a quick overview of my manager's messages,gmail_operations
+Give me the essentials of 5 flipkart emails,gmail_operations
+What does my boss say in the last 3 emails?,gmail_operations
+Show the last 10 messages that I received,gmail_operations
+What are my last emails?,gmail_operations
+Can I see my most recent letters?,gmail_operations
+Give me the previous five letters,gmail_operations
+I want the last batch of messages,gmail_operations
+Show messages sent by Rahul,gmail_operations
+I want all letters from the HDFC bank,gmail_operations
+What messages came from Aditi?,gmail_operations
+Recover all sent by Flipkart,gmail_operations
+Get messages from the sender E-mail abc@gmail.com,gmail_operations
+What letters are not read?,gmail_operations
+I did not open these emails -,gmail_operations
+Show the messages I missed to read,gmail_operations
+Are there invisible emails?,gmail_operations
+List only non -read messages,gmail_operations
+I only want urgent marked letters,gmail_operations
+Pull critical or played emails,gmail_operations
+Filter all the reported emails,gmail_operations
+Highlight the letters of importance marked,gmail_operations
+Get letters that I tagged important,gmail_operations
+Search for emails between January 1 and January 10,gmail_operations
+Receive emails I obtained in December,gmail_operations
+Recover messages received last Friday,gmail_operations
+What letters came last month?,gmail_operations
+Show only today's emails,gmail_operations
+"Check my reception box for the ""Work"" label",gmail_operations
+"Get all messages labeled ""family""",gmail_operations
+"I want to browse the ""Updates"" tab",gmail_operations
+"Show only the emails of ""promotions""",gmail_operations
+"Filter messages from the ""Newsletters"" folder",gmail_operations
+"Look for object lines with ""deadline""",gmail_operations
+"Look for messages on ""payment of costs""",gmail_operations
+"Get all the subjects with ""invoice"" in",gmail_operations
+"Find emails related to ""reminder""",gmail_operations
+"Letters with ""results"" as a subject?",gmail_operations
+List of emails that include attachments,gmail_operations
+Get all photos or documents sent recently,gmail_operations
+Are there e-mails with attached files?,gmail_operations
+Show emails with zip or doc files,gmail_operations
+I want letters where a file has been shared,gmail_operations
+Summarize all unrelated emails,gmail_operations
+Can you quickly summarize my reception box?,gmail_operations
+I need a summary of today's conversations,gmail_operations
+Give me most of the important recent letters,gmail_operations
+Brown me on the last 3 letters from the boss,gmail_operations
+Provide strengths of my emails,gmail_operations
+Summary of my Google messages,gmail_operations
+Can you tell me what it was my last emails?,gmail_operations
+Just show me my last 3 emails,gmail_operations
+Show the latest e-mail batch,gmail_operations
+Open the five most recent letters,gmail_operations
+Get my last emails,gmail_operations
+Check the latest inputs of the reception box,gmail_operations
+I only want emails from my HR,gmail_operations
+Show me all the Flipkart letters,gmail_operations
+Get everything John sent,gmail_operations
+Support@xyz.com updates?,gmail_operations
+Paytm emails only,gmail_operations
+Receive me letters that I haven't seen yet,gmail_operations
+"E-mail not read only, please",gmail_operations
+What messages are waiting to read?,gmail_operations
+Only recover the unrelated elements,gmail_operations
+New messages that I have not opened yet,gmail_operations
+Important emails this week,gmail_operations
+What are my letters reported?,gmail_operations
+Find high priority emails,gmail_operations
+I want to display only emails,gmail_operations
+Pull the critical messages,gmail_operations
+E-mail I have given in the last 2 days,gmail_operations
+Filter messages from July 1 to July 15,gmail_operations
+Receive last weekend emails,gmail_operations
+All emails received during the holidays,gmail_operations
+Show me emails from last month,gmail_operations
+Only work -related messages,gmail_operations
+Show the personal email category,gmail_operations
+"Emails marked ""urgent""",gmail_operations
+Open all emails from the Promotions tab,gmail_operations
+"Get marked emails as ""social""",gmail_operations
+"Find subjects containing a ""calendar""",gmail_operations
+Look for object lines for the `Réunion '' ',gmail_operations
+"Emails with the subject ""Offer update""",gmail_operations
+"All messages entitled ""Results""",gmail_operations
+"Everything that has the ""deadline"" in the subject",gmail_operations
+Look for messages that have attachments,gmail_operations
+Receive emails with Excel files,gmail_operations
+Download all PDFs from recent letters,gmail_operations
+E-mails provided with a document?,gmail_operations
+Receive all emails with attachments,gmail_operations
+Can you give me a turn of this week's emails?,gmail_operations
+I want a short summary of yesterday's emails,gmail_operations
+Summarize my teacher's emails,gmail_operations
+What are the key points in today's reception box?,gmail_operations
+Read and summarize last 5 messages,gmail_operations
+Give quick notes of significant mail,gmail_operations
+Summarize the e-mails of Rahul sent this morning,gmail_operations
+Just show me my last 10 emails,gmail_operations
+Bring me the latest emails,gmail_operations
+Can you receive my 3 most recent messages?,gmail_operations
+Check what's in the last emails,gmail_operations
+Show some previous emails,gmail_operations
+Do I have something HR?,gmail_operations
+Search for my recruiter emails,gmail_operations
+Filter by sender 'info@newsletter.com',gmail_operations
+Find emails that Riya sent,gmail_operations
+Have I received something from support@abc.com?,gmail_operations
+Something that I haven't read yet?,gmail_operations
+Invisible emails only please,gmail_operations
+What's new in my reception box?,gmail_operations
+Non -read articles today,gmail_operations
+List the emails I missed,gmail_operations
+Only critical or reported emails,gmail_operations
+Highlight priority letters,gmail_operations
+Show only emails with great importance,gmail_operations
+Find urgent messages,gmail_operations
+What are my most important emails today?,gmail_operations
+Check what I had last Friday,gmail_operations
+Give emails between 10 and 15th,gmail_operations
+Show this week's reception box,gmail_operations
+Filter emails from the last two days,gmail_operations
+Think only of emails this morning,gmail_operations
+Get everything from my social label,gmail_operations
+"Open the messages under ""updates""",gmail_operations
+"Can I see my ""Promotions"" file?",gmail_operations
+Check the emails in my shopping tag,gmail_operations
+"Show ""banking"" category emails",gmail_operations
+"Find letters with the subject ""Reminder""",gmail_operations
+"Subjects entitled ""Payment received""?",gmail_operations
+"Look for emails titled with ""Ticket Flight""",gmail_operations
+"Respond according to the ""invoice"" object line",gmail_operations
+"Scrire for ""opinion"" in the subject",gmail_operations
+Pull emails with Excel files,gmail_operations
+Download recent attachments,gmail_operations
+Find e-mails containing media,gmail_operations
+Locate letters with joint zip files,gmail_operations
+Show me image attachments,gmail_operations
+Quick summary of this week's email,gmail_operations
+Give me information on recent messages,gmail_operations
+Summarize the last 10 emails in short notes,gmail_operations
+Summary of emails by Anjali,gmail_operations
+Read and condense today's messages,gmail_operations
+Create a report from the latest emails,gmail_operations
+Help me understand the main points of my reception box,gmail_operations
+Can you recover the latest emails I received?,gmail_operations
+Get me my last 10 messages,gmail_operations
+Show my most recent letters,gmail_operations
+Access the latest e-mails,gmail_operations
+Open recent letters from the reception box,gmail_operations
+What emails have I received from Akash?,gmail_operations
+Show all messages sent by Flipkart,gmail_operations
+Get conversations with my teacher,gmail_operations
+Only Deepika emails,gmail_operations
+I want emails having just recruited@gmail.com,gmail_operations
+Do I have unrelated messages?,gmail_operations
+Shows only emails that I have not yet seen,gmail_operations
+Give me the new emails,gmail_operations
+Recover the unrelated messages from yesterday,gmail_operations
+Show me all invisible emails,gmail_operations
+Recover only high priority emails,gmail_operations
+What letters are they marked as important?,gmail_operations
+You only complain about the important,gmail_operations
+What are my messages reported?,gmail_operations
+Access only to priority emails,gmail_operations
+Can I see the emails last Friday?,gmail_operations
+Receive all letters between March 1 and March 5,gmail_operations
+Respond to emails of the last 2 days,gmail_operations
+Mail show I got this week,gmail_operations
+Show letters received last month,gmail_operations
+Recover emails under promotions,gmail_operations
+"Open emails labeled as ""newsletters""",gmail_operations
+"Reception filter by ""Work"" label",gmail_operations
+I only want social category messages,gmail_operations
+"Show updates entitled ""Banque""",gmail_operations
+"Search for emails with the subject ""flight reservation""",gmail_operations
+"Find emails entitled ""Back received""",gmail_operations
+"Get letters containing an ""assignment due"" in the subject",gmail_operations
+"Look for object lines with ""deadline""",gmail_operations
+"Show me messages that have ""interview call"" as a subject",gmail_operations
+Find emails that include attachments,gmail_operations
+Receive emails with attached files,gmail_operations
+Look for messages with Excel files,gmail_operations
+Download the attachments from the reception box,gmail_operations
+Check the PowerPoint files I received,gmail_operations
+Can you summarize the last 5 HR emails?,gmail_operations
+Give me a summary of recent messages,gmail_operations
+Summarize unrelated letters,gmail_operations
+What do all the boss' emails say this week?,gmail_operations
+Give a brief summary of important letters today,gmail_operations
+Summate what Amazon recently sent me,gmail_operations
+I need a small gist of my reception box,gmail_operations
+Simply summarizes the attachments I received,gmail_operations
+What is the global message in my new emails?,gmail_operations
+Give a brief overview of conversations with my team,gmail_operations
+Pull my last 10 emails,gmail_operations
+List the most recent letters I have received,gmail_operations
+Can you get the last batch of emails?,gmail_operations
+Recover my latest conversations by email,gmail_operations
+Access my 3 previous messages,gmail_operations
+Get messages from Neha,gmail_operations
+E-mails filter by sender: shruti.patil@xyz.com,gmail_operations
+I need letters sent by CDAC Mumbai,gmail_operations
+Show all emails exchanged with Raj,gmail_operations
+Respond only to these letters which are from Mohan,gmail_operations
+Highlight the emails that I haven't opened yet,gmail_operations
+List of unrelated messages in the reception box,gmail_operations
+Just show me new unrelated emails,gmail_operations
+What letters are they waiting for reading?,gmail_operations
+I want the messages that I haven't seen yet,gmail_operations
+Choose my reported messages,gmail_operations
+What letters are marked with a star?,gmail_operations
+Give me emails with high priority,gmail_operations
+Filter critical or marked messages,gmail_operations
+List all priority letters,gmail_operations
+Get my reception box activity between May 1 and 5,gmail_operations
+Show all emails of the second week of April,gmail_operations
+I want messages received last weekend,gmail_operations
+Reply to emails sent on March 15,gmail_operations
+Show only letters received yesterday,gmail_operations
+"Access only the ""promotions"" label",gmail_operations
+"Filter my reception box by the ""Personal"" folder",gmail_operations
+"I only want to see the emails of my ""newsletters""",gmail_operations
+"Give me letters in the category of ""updates""",gmail_operations
+"Get emails from the ""Social"" section",gmail_operations
+"Find letters with ""invoice"" in the subject",gmail_operations
+"Look for subjects that mention the ""result""",gmail_operations
+"Get all the messages entitled ""Welcome""",gmail_operations
+"Look for emails that have ""job offer"" in the subject",gmail_operations
+"Can you recover letters that say ""reminder of the deadline""?",gmail_operations
+Get all the documents from my recent letters,gmail_operations
+Find emails containing images or PDF,gmail_operations
+List messages that have attachments,gmail_operations
+Access all files received by mail,gmail_operations
+Filter only emails with downloadable content,gmail_operations
+Summate all the emails I received from my manager,gmail_operations
+Give me short summaries of 10 recent messages,gmail_operations
+Can you compress my reception box in key points?,gmail_operations
+Briefly explain the latest important letters,gmail_operations
+I want a quick summary of today's conversations,gmail_operations
+What are the main points of my last 3 emails?,gmail_operations
+Summate everything that sent me this week this week,gmail_operations
+Get my last 3 emails,gmail_operations
+Please show me my most recent letters,gmail_operations
+I would like to read my last 10 messages,gmail_operations
+Bring the 5 emails I received recently,gmail_operations
+What were the last emails I received?,gmail_operations
+Give me all the emails coming from Google,gmail_operations
+I need to find emails sent by my HR,gmail_operations
+Respond to emails from my class coordinator,gmail_operations
+What did Réli have sent me an email recently?,gmail_operations
+Show only messages received from contact@service.com,gmail_operations
+List unrelated letters in the reception box,gmail_operations
+Check the unprecedented emails,gmail_operations
+Do I have something new that I haven't seen?,gmail_operations
+Bring the non -read to the top,gmail_operations
+Show all invisible emails,gmail_operations
+Recover the letters marked as important,gmail_operations
+Check if there are critical messages,gmail_operations
+Answer the letters that are reported,gmail_operations
+I only want high priority emails,gmail_operations
+Show me an urgent letter,gmail_operations
+What emails have I received last Sunday?,gmail_operations
+Show my reception box yesterday,gmail_operations
+Receive all the emails between July 1 and July 5,gmail_operations
+List of emails dated last Friday,gmail_operations
+"Emails classified as ""newsletter""",gmail_operations
+Show messages labeled as promotions,gmail_operations
+"Bring all the emails tagged with ""works""",gmail_operations
+"Filter letters by the ""Updates"" tag",gmail_operations
+What is in the social label?,gmail_operations
+Search for emails on the invoice,gmail_operations
+"I want to see all the subjects that mention the ""CV""",gmail_operations
+"Do I have an object line containing a ""reminder""?",gmail_operations
+"Look for subjects mentioning ""result""",gmail_operations
+Check which couriers contain files,gmail_operations
+List all messages that have images or documents,gmail_operations
+Have I had attachments today?,gmail_operations
+Download PDF from my reception box,gmail_operations
+What emails have attached files?,gmail_operations
+Give me a summary of today's emails,gmail_operations
+Summate the letters I received in the morning,gmail_operations
+Give an overview of the important messages yesterday,gmail_operations
+Brome me on the recent emails of my teacher,gmail_operations
+What is the essentials of my unrelated emails?,gmail_operations
+Just show me the last 3 messages,gmail_operations
+Only the last 2 emails please,gmail_operations
+Give me a look at the latest messages,gmail_operations
+I want to read the most recent emails,gmail_operations
+Show the last five letters,gmail_operations
+Do I have Rahul emails?,gmail_operations
+Bring messages from the HR service,gmail_operations
+Show letters from Flipkart,gmail_operations
+List of messages sent by Deepa,gmail_operations
+Did Google send me something recently?,gmail_operations
+What new letters are not read?,gmail_operations
+Isn't it read in my reception box?,gmail_operations
+Highlight the new incoming messages,gmail_operations
+Invisible letters today?,gmail_operations
+What messages haven't opened?,gmail_operations
+Do I have reported messages?,gmail_operations
+Get those marked with a star,gmail_operations
+Important emails only,gmail_operations
+Pull the priority letters,gmail_operations
+Access high priority articles,gmail_operations
+I want emails last Friday,gmail_operations
+Show only the messages I received yesterday,gmail_operations
+What did I get last week?,gmail_operations
+Respond to emails from March 10 to March 12,gmail_operations
+Show the reception box for the last 2 days,gmail_operations
+Get messages under the promotions tab,gmail_operations
+"Mails in the ""Work"" label",gmail_operations
+"Filter messages in the ""personal"" category",gmail_operations
+"Show me what is ""notifications"" in the file",gmail_operations
+"Recover all the ""Offers"" category emails",gmail_operations
+"E-mails with the subject ""payment reminder""?",gmail_operations
+"Receive letters mentioning the ""submission of assignments""",gmail_operations
+"Search the subjects for the ""deadline""",gmail_operations
+"Find object lines with ""invoice""",gmail_operations
+"Display the emails with ""congratulations"" in the subject",gmail_operations
+Get all my emails that had attachments,gmail_operations
+Summarize the teacher's recent emails,gmail_operations
+Give me a summary of unread messages,gmail_operations
+Summate today's reception box,gmail_operations
+Can you give me a short version of these emails?,gmail_operations
+What is the summary of all HDFC messages?,gmail_operations
+Can I see my last 10 emails?,gmail_operations
+Show me the most recent messages I have received,gmail_operations
+Show the previous 3 emails,gmail_operations
+Return the latest emails in my reception box,gmail_operations
+Open my last 8 emails,gmail_operations
+Pull the messages from my HR,gmail_operations
+Recover all the e-mails that Alice sent,gmail_operations
+I want emails that come from Sales@xyz.com,gmail_operations
+What has Neha sent me an email lately?,gmail_operations
+Search for John's messages,gmail_operations
+Unrelated emails in my reception box?,gmail_operations
+Just show the new emails,gmail_operations
+Filter only those I have not checked,gmail_operations
+Get invisible messages,gmail_operations
+Show unrelated fresh emails,gmail_operations
+Find priority messages,gmail_operations
+What emails are urgent marked?,gmail_operations
+List my important conversations,gmail_operations
+Show only letters that are reported,gmail_operations
+Receive the high priority emails,gmail_operations
+Can you show e-mails last Friday?,gmail_operations
+Recover messages received on March 15,gmail_operations
+Respond to letters between April 1 and April 5,gmail_operations
+Get reception box items from this last weekend,gmail_operations
+Filter messages by 2023-07-01 to 2023-07-10,gmail_operations
+I want all the e-mails labeled as urgent,gmail_operations
+Get my emails in the “Travel” category,gmail_operations
+Check the emails in the personal label,gmail_operations
+Filter by label: work,gmail_operations
+Give me letters that are in the promotions label,gmail_operations
+"Show me emails with ""admission"" in the subject",gmail_operations
+"Look for emails entitled ""Invoice""",gmail_operations
+"Find emails with ""calendar"" in the object line",gmail_operations
+"Get all the object lines containing a ""reminder""",gmail_operations
+"Pull the emails having a ""newsletter"" in the subject",gmail_operations
+Do I have emails with Excel files?,gmail_operations
+List all emails that have attachments,gmail_operations
+I want to see emails with downloadable documents,gmail_operations
+Receive emails with images or files,gmail_operations
+Search for emails containing attachments,gmail_operations
+Summate the last 3 messages from Paytm,gmail_operations
+Give me a summary of recent recent letters,gmail_operations
+What is the summary of all Gmail updates?,gmail_operations
+Summarize the content of the director's emails,gmail_operations
+I want a memory of today's messages,gmail_operations
+Summary of important emails this week,gmail_operations
+Give an overview of work emails of the last 2 days,gmail_operations
+Can you generate a short summary of my reception box?,gmail_operations
+Can you remove my 10 most recent emails?,gmail_operations
+Just show me the latest messages I received,gmail_operations
+Load the last 3 emails,gmail_operations
+Access my last 15 letters,gmail_operations
+I want a list of my latest emails,gmail_operations
+New Rahul messages?,gmail_operations
+Do I have something HR?,gmail_operations
+Pull emails that came from my team team,gmail_operations
+Check if there is Flipkart mail,gmail_operations
+Look for the emails sent by my mentor,gmail_operations
+What letters not I have I?,gmail_operations
+List my invisible messages,gmail_operations
+Is there something that I haven't opened yet?,gmail_operations
+Show only the emails I missed,gmail_operations
+Do I have fresh letters?,gmail_operations
+Significant or urgent letters today?,gmail_operations
+What are my reported emails?,gmail_operations
+List today's priority messages,gmail_operations
+Check marked letters as high importance,gmail_operations
+Filter The reception box by importance,gmail_operations
+Recover last Sunday letters,gmail_operations
+What messages have gone between July 5 and 10?,gmail_operations
+Show all Mars emails,gmail_operations
+Get all the elements of the reception box 2 days ago,gmail_operations
+Mails earlier this week only,gmail_operations
+Pull my “shopping” category emails,gmail_operations
+"I want ""promotions"" messages",gmail_operations
+Access my social updates,gmail_operations
+Show all letters labeled as personal,gmail_operations
+Filter based on the 'Projectx' label,gmail_operations
+"Find emails entitled ""Assignment Submission""",gmail_operations
+"Search for subjects with ""test results""",gmail_operations
+"Get the mail that mentions ""your invoice"" in the subject",gmail_operations
+"Locate letters with the subject of ""flight reservation""",gmail_operations
+Look for emails with `congratulations '' in the title,gmail_operations
+Take all the accessories last week,gmail_operations
+Was there any zip files in recent emails?,gmail_operations
+Consider only letters with attached files,gmail_operations
+Do I have invoices attached in the mail?,gmail_operations
+Download documents from emails,gmail_operations
+Summate my reception box briefly,gmail_operations
+What is the summary of the unrelated emails of the last 2 days?,gmail_operations
+Can you give a tour of this week's updates?,gmail_operations
+Quickly summarize LinkedIn's messages,gmail_operations
+I want a brief relationship of mail today,gmail_operations

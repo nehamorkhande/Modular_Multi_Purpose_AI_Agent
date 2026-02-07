@@ -1,0 +1,313 @@
+2025-08-01 08:06:02,247 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 08:06:17,536 - INFO - Input: make notes | Predicted Intent: make_notes
+2025-08-01 08:06:32,301 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 08:07:02,027 - INFO - Input: what is the sentiment of tata motors | Predicted Intent: stock_sentiment
+2025-08-01 08:07:45,240 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 08:09:04,670 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 09:36:56,914 - INFO - Input: what is the sentiment tata motors | Predicted Intent: stock_sentiment
+2025-08-01 09:37:31,080 - INFO - Input: give me the last 4 mails from my mail id | Predicted Intent: gmail_operations
+2025-08-01 09:37:31,435 - ERROR - Gmail module failed
+Traceback (most recent call last):
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/streamlit_app.py", line 179, in <module>
+    result = gmail_operation(prompt)
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/modules/gmail/gmail_main.py", line 13, in gmail_operation
+    return get_last_n_emails(n=n)
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/modules/gmail/last_n_mails.py", line 14, in get_last_n_emails
+    service = get_gmail_service()
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/modules/gmail/gmail_auth.py", line 19, in get_gmail_service
+    creds.refresh(Request())
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/myenvlinux/lib/python3.10/site-packages/google/oauth2/credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/myenvlinux/lib/python3.10/site-packages/google/oauth2/reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/myenvlinux/lib/python3.10/site-packages/google/oauth2/_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-08-01 09:38:27,289 - INFO - Input: summarize this audio | Predicted Intent: voice_summary
+2025-08-01 09:40:55,128 - INFO - Input: summarize this audio file | Predicted Intent: voice_summary
+2025-08-01 09:58:59,599 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 10:03:48,375 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 10:04:08,537 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 10:07:03,316 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 10:07:25,233 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 10:08:18,375 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 10:08:24,100 - INFO - Input: summarize this audio fileaff | Predicted Intent: voice_summary
+2025-08-01 10:08:55,844 - INFO - Input: summarize this audio fileaff | Predicted Intent: voice_summary
+2025-08-01 10:08:59,497 - INFO - Input: summarize this audio fileaff | Predicted Intent: voice_summary
+2025-08-01 10:09:01,241 - INFO - Input: summarize this audio fileaff | Predicted Intent: voice_summary
+2025-08-01 10:12:44,550 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 10:12:50,088 - INFO - Input: summarize this audio fileaff | Predicted Intent: voice_summary
+2025-08-01 10:18:52,933 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 10:21:20,276 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 10:21:23,814 - INFO - Input: summarize this audio fileaff | Predicted Intent: voice_summary
+2025-08-01 10:21:57,272 - INFO - Input: summarize this file | Predicted Intent: make_notes
+2025-08-01 10:22:13,353 - INFO - Input: summarize this file audio | Predicted Intent: voice_summary
+2025-08-01 10:24:41,142 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 10:25:17,343 - INFO - Input: summarize this audio fileaff | Intent: notes_summary
+2025-08-01 10:25:56,182 - INFO - Input: summarize this audio fileaff | Predicted Intent: voice_summary
+2025-08-01 10:30:02,769 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 10:30:02,916 - INFO - Input: what is the weateher in pune | Predicted Intent: get_weather
+2025-08-01 10:32:25,312 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 10:32:25,460 - INFO - Input: what is the weateher in pune | Predicted Intent: get_weather
+2025-08-01 10:33:00,708 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 10:33:00,849 - INFO - Input: what is the weateher in pune | Predicted Intent: get_weather
+2025-08-01 10:34:40,581 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 10:34:42,556 - INFO - Input: what is the weateher in pune | Predicted Intent: get_weather
+2025-08-01 10:34:44,624 - INFO - Input: what is the weateher in pune | Predicted Intent: get_weather
+2025-08-01 10:34:45,920 - INFO - Input: what is the weateher in pune | Predicted Intent: get_weather
+2025-08-01 10:35:52,582 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 10:35:52,720 - INFO - Input: what is the sentiment of tata motors | Predicted Intent: stock_sentiment
+2025-08-01 10:37:01,667 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 10:37:01,806 - INFO - Input: what is the sentiment of tata motors | Predicted Intent: stock_sentiment
+2025-08-01 10:37:30,152 - INFO - Input: what is the sentiment of tata motors | Predicted Intent: stock_sentiment
+2025-08-01 10:40:56,448 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-01 11:41:17,138 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 11:58:59,537 - INFO - Input: convert this to audio | Predicted Intent: convert_to_audio
+2025-08-01 11:59:19,760 - INFO - Input: convert this to audio | Predicted Intent: convert_to_audio
+2025-08-01 12:03:49,966 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 12:04:34,702 - INFO - Input: convert this to audio | Predicted Intent: convert_to_audio
+2025-08-01 12:04:55,642 - INFO - Input: convert this to audio | Predicted Intent: convert_to_audio
+2025-08-01 12:06:28,963 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 12:06:29,135 - INFO - Input: hey how are you | Predicted Intent: stock_sentiment
+2025-08-01 12:06:37,050 - INFO - Input: hey how are you convert this to audio | Predicted Intent: convert_to_audio
+2025-08-01 12:09:19,175 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 12:09:33,729 - INFO - Input: convert this to audio | Predicted Intent: convert_to_audio
+2025-08-01 12:10:04,727 - INFO - Input: convert this text to audio  - hdasfdsfdslasjfdskfjs;adlfjkds adsfdsfjdslafkds fads; f; fkdsa fasd;fk a; fa;sdf a;d fajdf | Predicted Intent: convert_to_audio
+2025-08-01 12:10:52,063 - INFO - Input: convert this text to audio  -hey bro how are you | Predicted Intent: convert_to_audio
+2025-08-01 12:11:36,091 - INFO - Input: convert to audio - Artificial intelligence is transforming the world. It helps machines learn from experience, adjust to new inputs, and perform human-like tasks. | Predicted Intent: voice_summary
+2025-08-01 12:11:47,311 - INFO - Input: convert to this to audio - Artificial intelligence is transforming the world. It helps machines learn from experience, adjust to new inputs, and perform human-like tasks. | Predicted Intent: convert_to_audio
+2025-08-01 12:12:08,604 - INFO - Input: convert to this to audio  Artificial intelligence is transforming the world. It helps machines learn from experience, adjust to new inputs, and perform human-like tasks. | Predicted Intent: convert_to_audio
+2025-08-01 12:12:14,141 - INFO - Input: convert to this to audio  Artificial intelligence is transforming the world. It helps machines learn from experience, adjust to new inputs, and perform human-like tasks. | Predicted Intent: convert_to_audio
+2025-08-01 12:12:18,292 - INFO - Input: convert to this to audio  Artificial intelligence is transforming the world. It helps machines learn from experience, adjust to new inputs, and perform human-like tasks. | Predicted Intent: convert_to_audio
+2025-08-01 12:12:30,461 - INFO - Input: stock sentiment | Predicted Intent: stock_sentiment
+2025-08-01 12:12:35,612 - INFO - Input: conve | Predicted Intent: gmail_operations
+2025-08-01 12:12:35,620 - ERROR - Gmail module failed
+Traceback (most recent call last):
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/streamlit_app.py", line 233, in <module>
+    st.markdown(f"- **From:** {email['From']}")
+TypeError: string indices must be integers
+2025-08-01 12:12:40,436 - INFO - Input: convert this to audio | Predicted Intent: convert_to_audio
+2025-08-01 12:19:08,354 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 12:19:46,461 - INFO - Input: send a mail to jay sawant | Predicted Intent: gmail_operations
+2025-08-01 12:19:46,465 - ERROR - Gmail module failed
+Traceback (most recent call last):
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/streamlit_app.py", line 233, in <module>
+    st.markdown(f"- **From:** {email['From']}")
+TypeError: string indices must be integers
+2025-08-01 12:19:57,072 - INFO - Input: send a mail  | Predicted Intent: gmail_operations
+2025-08-01 12:19:57,075 - ERROR - Gmail module failed
+Traceback (most recent call last):
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/streamlit_app.py", line 233, in <module>
+    st.markdown(f"- **From:** {email['From']}")
+TypeError: string indices must be integers
+2025-08-01 12:20:04,556 - INFO - Input: can you send a mail | Predicted Intent: gmail_operations
+2025-08-01 12:20:04,561 - ERROR - Gmail module failed
+Traceback (most recent call last):
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/streamlit_app.py", line 233, in <module>
+    st.markdown(f"- **From:** {email['From']}")
+TypeError: string indices must be integers
+2025-08-01 12:20:24,626 - INFO - Input: gmail | Predicted Intent: gmail_operations
+2025-08-01 12:20:24,631 - ERROR - Gmail module failed
+Traceback (most recent call last):
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/streamlit_app.py", line 233, in <module>
+    st.markdown(f"- **From:** {email['From']}")
+TypeError: string indices must be integers
+2025-08-01 12:21:14,120 - INFO - Input: convert this to audio | Predicted Intent: convert_to_audio
+2025-08-01 12:21:19,450 - INFO - Input: convert this to audio | Predicted Intent: convert_to_audio
+2025-08-01 12:22:12,489 - INFO - Input: what is the weather in satara | Predicted Intent: get_weather
+2025-08-01 12:27:35,450 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 12:27:37,276 - INFO - Input: what is the weather in satara | Predicted Intent: get_weather
+2025-08-01 12:27:47,117 - INFO - Input: what is the weather in satara | Predicted Intent: get_weather
+2025-08-01 12:28:19,126 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 12:28:19,667 - INFO - Input: what is the weather in satara | Predicted Intent: get_weather
+2025-08-01 12:28:38,180 - INFO - Input: what is the weather in satara | Predicted Intent: get_weather
+2025-08-01 12:42:33,256 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 12:42:37,084 - INFO - Input: what is the weather in satara | Predicted Intent: get_weather
+2025-08-01 12:43:48,520 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 12:43:51,004 - INFO - Input: what is the weather in satara | Predicted Intent: get_weather
+2025-08-01 12:44:01,936 - INFO - Input: what is the weather in sangli | Predicted Intent: get_weather
+2025-08-01 12:44:08,097 - INFO - Input: what is the weather in kolhapur | Predicted Intent: get_weather
+2025-08-01 12:44:11,054 - INFO - Input: what is the weather in kolhapur | Predicted Intent: get_weather
+2025-08-01 12:44:17,713 - INFO - Input: what is the weather in delhi | Predicted Intent: get_weather
+2025-08-01 12:44:24,131 - INFO - Input: what is the weather in mumbai | Predicted Intent: get_weather
+2025-08-01 12:44:30,147 - INFO - Input: what is the weather in aurangabad | Predicted Intent: get_weather
+2025-08-01 12:45:21,722 - INFO - Input: what is the weather in nagpur | Predicted Intent: get_weather
+2025-08-01 12:45:24,319 - INFO - Input: what is the weather in nagpur | Predicted Intent: get_weather
+2025-08-01 12:45:34,044 - INFO - Input: what is the weather in benglore | Predicted Intent: get_weather
+2025-08-01 12:45:38,721 - INFO - Input: what is the weather in banglore | Predicted Intent: get_weather
+2025-08-01 12:45:42,321 - INFO - Input: what is the weather in banglore | Predicted Intent: get_weather
+2025-08-01 12:45:46,225 - INFO - Input: what is the weather in satara | Predicted Intent: get_weather
+2025-08-01 12:45:54,358 - INFO - Input: what is the weather in hydrabad | Predicted Intent: get_weather
+2025-08-01 15:01:36,268 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 19:26:01,373 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 19:27:34,940 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 19:27:35,566 - INFO - Input: give me 5 rows and any 2 columns of data from us | Predicted Intent: gmail_operations
+2025-08-01 19:27:35,570 - ERROR - Gmail module failed
+Traceback (most recent call last):
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/streamlit_app.py", line 269, in <module>
+    st.markdown(f"- **From:** {email['From']}")
+TypeError: string indices must be integers
+2025-08-01 19:28:29,075 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 19:28:31,789 - INFO - Input: give me 5 rows and any 2 columns of data from us | Predicted Intent: gmail_operations
+2025-08-01 19:29:30,994 - ERROR - NL2SQL intent handler failed
+Traceback (most recent call last):
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/streamlit_app.py", line 131, in <module>
+    if df.empty:
+AttributeError: 'str' object has no attribute 'empty'
+2025-08-01 19:29:31,342 - INFO - Closing down clientserver connection
+2025-08-01 19:35:18,990 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 19:35:26,233 - INFO - Input: give me 5 rows and any 2 columns of data from us | Predicted Intent: gmail_operations
+2025-08-01 19:36:34,220 - INFO - Closing down clientserver connection
+2025-08-01 19:39:44,132 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 19:39:58,362 - INFO - Input: give me 5 rows and any 2 columns of data from us | Predicted Intent: gmail_operations
+2025-08-01 19:40:05,240 - INFO - Closing down clientserver connection
+2025-08-01 19:43:54,056 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 19:43:54,606 - INFO - Input: give me 5 rows and any 4 columns of data from us | Predicted Intent: gmail_operations
+2025-08-01 19:44:02,775 - ERROR - NL2SQL intent handler failed
+Traceback (most recent call last):
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/streamlit_app.py", line 145, in <module>
+    top_n = st.slider("Top N records to show", 5, len(df), min(10, len(df)))
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/myenvlinux/lib/python3.10/site-packages/streamlit/runtime/metrics_util.py", line 443, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/myenvlinux/lib/python3.10/site-packages/streamlit/elements/widgets/slider.py", line 633, in slider
+    return self._slider(
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/myenvlinux/lib/python3.10/site-packages/streamlit/elements/widgets/slider.py", line 896, in _slider
+    raise StreamlitAPIException(
+streamlit.errors.StreamlitAPIException: Slider `min_value` must be less than the `max_value`.
+The values were 5 and 5.
+2025-08-01 19:44:03,021 - INFO - Closing down clientserver connection
+2025-08-01 19:44:56,501 - INFO - Input: give me 5 rows and any 8 columns of data from us | Predicted Intent: gmail_operations
+2025-08-01 19:45:06,446 - INFO - Closing down clientserver connection
+2025-08-01 19:45:39,285 - INFO - Input: give me 5 rows and any 6 columns of data from us | Predicted Intent: gmail_operations
+2025-08-01 19:45:47,630 - INFO - Closing down clientserver connection
+2025-08-01 19:51:20,567 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 19:51:21,121 - INFO - Input: give me 5 rows and any 4 columns of data from us | Predicted Intent: gmail_operations
+2025-08-01 19:52:16,100 - INFO - Closing down clientserver connection
+2025-08-01 19:52:51,381 - INFO - Input: give all data  | Predicted Intent: gmail_operations
+2025-08-01 19:52:57,925 - INFO - Closing down clientserver connection
+2025-08-01 19:53:47,774 - INFO - Input: give all data where title starts with b | Predicted Intent: gmail_operations
+2025-08-01 19:53:53,830 - INFO - Closing down clientserver connection
+2025-08-01 19:54:14,389 - INFO - Input: give all data where title starts with b | Predicted Intent: gmail_operations
+2025-08-01 19:54:19,014 - INFO - Closing down clientserver connection
+2025-08-01 19:56:31,145 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 19:56:31,724 - INFO - Input: give all data where title starts with b | Predicted Intent: gmail_operations
+2025-08-01 19:56:31,727 - ERROR - Gmail module failed
+Traceback (most recent call last):
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/streamlit_app.py", line 271, in <module>
+    st.markdown(f"- **From:** {email['From']}")
+TypeError: string indices must be integers
+2025-08-01 20:05:08,712 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 20:05:23,958 - INFO - Input: give all data where title starts with b from youtube database | Intent: nl2sql
+2025-08-01 20:06:52,107 - INFO - Closing down clientserver connection
+2025-08-01 20:08:11,960 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 20:08:14,869 - INFO - Input: give all data where title starts with b from youtube database | Intent: nl2sql
+2025-08-01 20:08:23,539 - INFO - Closing down clientserver connection
+2025-08-01 20:11:14,596 - INFO - Input: get the last 5 mails from my mail box | Predicted Intent: gmail_operations
+2025-08-01 20:11:14,912 - ERROR - Gmail module failed
+Traceback (most recent call last):
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/streamlit_app.py", line 261, in <module>
+    result = gmail_operation(prompt)
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/modules/gmail/gmail_main.py", line 13, in gmail_operation
+    return get_last_n_emails(n=n)
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/modules/gmail/last_n_mails.py", line 14, in get_last_n_emails
+    service = get_gmail_service()
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/modules/gmail/gmail_auth.py", line 19, in get_gmail_service
+    creds.refresh(Request())
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/myenvlinux/lib/python3.10/site-packages/google/oauth2/credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/myenvlinux/lib/python3.10/site-packages/google/oauth2/reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/myenvlinux/lib/python3.10/site-packages/google/oauth2/_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-08-01 20:15:44,827 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 20:15:46,613 - INFO - Input: get the last 5 mails from my mail box | Predicted Intent: gmail_operations
+2025-08-01 20:15:46,852 - ERROR - Gmail module failed
+Traceback (most recent call last):
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/streamlit_app.py", line 261, in <module>
+    result = gmail_operation(prompt)
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/modules/gmail/gmail_main.py", line 13, in gmail_operation
+    return get_last_n_emails(n=n)
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/modules/gmail/last_n_mails.py", line 14, in get_last_n_emails
+    service = get_gmail_service()
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/modules/gmail/gmail_auth.py", line 19, in get_gmail_service
+    creds.refresh(Request())
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/myenvlinux/lib/python3.10/site-packages/google/oauth2/credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/myenvlinux/lib/python3.10/site-packages/google/oauth2/reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/myenvlinux/lib/python3.10/site-packages/google/oauth2/_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+2025-08-01 20:17:27,577 - INFO - Input: can you send a mail to jay sawant | Predicted Intent: gmail_operations
+2025-08-01 20:17:27,581 - ERROR - Gmail module failed
+Traceback (most recent call last):
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/streamlit_app.py", line 264, in <module>
+    st.markdown(f"- **From:** {email['From']}")
+TypeError: string indices must be integers
+2025-08-01 20:25:38,476 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 20:27:41,229 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-01 20:30:16,309 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-01 20:30:59,891 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-01 20:31:59,647 - INFO - Closing down clientserver connection
+2025-08-01 20:42:45,018 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-01 20:43:52,787 - INFO - Closing down clientserver connection
+2025-08-02 09:28:34,576 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-02 09:29:13,240 - INFO - Input: get all the data from my database | Predicted Intent: gmail_operations
+2025-08-02 09:29:13,245 - ERROR - Gmail module failed
+Traceback (most recent call last):
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/streamlit_app.py", line 264, in <module>
+    st.markdown(f"- **From:** {email['From']}")
+TypeError: string indices must be integers
+2025-08-02 09:29:26,294 - INFO - Input: get all the data from my database | Intent: nl2sql
+2025-08-02 09:31:08,976 - INFO - Closing down clientserver connection
+2025-08-02 09:32:41,753 - INFO - Input: generate any compex query from my database | Intent: nl2sql
+2025-08-02 09:32:53,777 - INFO - Closing down clientserver connection
+2025-08-02 09:33:29,070 - INFO - Input: give my the videos starting with a from youtube database | Intent: nl2sql
+2025-08-02 09:33:36,004 - INFO - Closing down clientserver connection
+2025-08-02 09:34:00,721 - INFO - Input: give my the videos starting with 'a' from youtube database | Intent: nl2sql
+2025-08-02 09:34:06,704 - INFO - Closing down clientserver connection
+2025-08-02 09:34:30,035 - INFO - Input: what is the weather in satara | Predicted Intent: get_weather
+2025-08-02 09:35:06,792 - INFO - Closing down clientserver connection
+2025-08-07 09:48:04,391 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-07 09:50:04,788 - INFO - Input: get all the data from my database | Predicted Intent: gmail_operations
+2025-08-07 09:50:04,799 - ERROR - Gmail module failed
+Traceback (most recent call last):
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/streamlit_app.py", line 264, in <module>
+    st.markdown(f"- **From:** {email['From']}")
+TypeError: string indices must be integers
+2025-08-07 09:50:11,312 - INFO - Input: get all the data from my database | Intent: nl2sql
+2025-08-07 09:52:12,952 - INFO - Closing down clientserver connection
+2025-08-07 10:27:14,848 - INFO - Closing down clientserver connection
+2025-08-07 11:59:04,965 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-08-07 11:59:33,789 - INFO - Input: get all the data from youtube database | Intent: nl2sql
+2025-08-07 12:01:56,043 - INFO - Closing down clientserver connection
+2025-08-07 12:02:26,227 - INFO - Input: get all the data of title starting with  'B' from youtube database | Intent: nl2sql
+2025-08-07 12:02:40,994 - INFO - Closing down clientserver connection
+2025-08-07 12:03:13,094 - INFO - Input: what is the sentiment of tata motors | Predicted Intent: stock_sentiment
+2025-08-07 12:09:39,501 - INFO - Closing down clientserver connection
+2025-10-27 20:24:22,800 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2025-10-27 20:25:06,152 - INFO - Input: what is the sentiment of tata motors | Predicted Intent: stock_sentiment
+2025-10-27 20:28:40,638 - INFO - Input: give me last 10 mail from my email | Predicted Intent: gmail_operations
+2025-10-27 20:28:40,924 - ERROR - Gmail module failed
+Traceback (most recent call last):
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/streamlit_app.py", line 261, in <module>
+    result = gmail_operation(prompt)
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/modules/gmail/gmail_main.py", line 13, in gmail_operation
+    return get_last_n_emails(n=n)
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/modules/gmail/last_n_mails.py", line 14, in get_last_n_emails
+    service = get_gmail_service()
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/modules/gmail/gmail_auth.py", line 19, in get_gmail_service
+    creds.refresh(Request())
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/myenvlinux/lib/python3.10/site-packages/google/oauth2/credentials.py", line 409, in refresh
+    ) = reauth.refresh_grant(
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/myenvlinux/lib/python3.10/site-packages/google/oauth2/reauth.py", line 366, in refresh_grant
+    _client._handle_error_response(response_data, retryable_error)
+  File "/home/jay/Desktop/ML_Final_Project/Multi-Modal-multi-Purpose-AI-agent/myenvlinux/lib/python3.10/site-packages/google/oauth2/_client.py", line 69, in _handle_error_response
+    raise exceptions.RefreshError(
+google.auth.exceptions.RefreshError: ('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})
+2025-10-27 20:30:26,307 - INFO - Input: what is weather in pune | Predicted Intent: get_weather
+2025-10-27 20:30:31,641 - INFO - Input: what is weather in pune | Predicted Intent: get_weather
+2026-01-25 16:25:21,998 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2026-01-25 17:17:57,667 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
+2026-01-25 17:20:58,142 - INFO - Model loaded successfully from: intent_classifier/classifiers/ml_based/model/intent_classifier_pipeline.pkl
